@@ -6,6 +6,12 @@ conda env create -f env.yml
 conda activate GCC
 
 ```
+### rapi
+```shell
+conda env create -f env-rapi.yml
+conda activate GCC-rapi
+```
+
 
 ## GCC 환경 설정 패키지 설치 후 
 
