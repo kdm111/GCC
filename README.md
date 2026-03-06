@@ -1,4 +1,8 @@
-# KSSD 
-# 이세진
-# 이보민
-안녕하세요
+# GCC
+
+## GCC 환경설정 활성화
+```shell
+conda env create -f env.yml
+conda activate GCC
+
+```
